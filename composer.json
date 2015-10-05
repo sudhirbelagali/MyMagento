@@ -1,0 +1,16 @@
+{
+    "name":"tim-bezhashvyly/geoip",
+    "type":"magento-module",
+    "license":"OSL-3.0",
+    "homepage":"https://github.com/tim-bezhashvyly/geoip",
+    "description":"Connects MaxMind GeoIP DB to Magento",
+    "authors":[
+        {
+            "name":"Tim Bezhashvyly",
+            "email":"tim.bezhashvyly@gmail.com"
+        }
+    ],
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
