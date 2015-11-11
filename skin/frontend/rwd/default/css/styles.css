@@ -90,6 +90,7 @@ html {
  */
 body {
   margin: 0;
+ 
 }
 
 /* ==========================================================================
@@ -3164,10 +3165,10 @@ body {
  * ============================================ */
 @media only screen and (min-width: 771px) {
   .page-header {
-    max-width: 1260px;
+   max-width: 1260px;
     margin: 0 auto;
     padding: 0 30px;
-  }
+ }
 
   .page-header-container {
     position: relative;
@@ -3185,6 +3186,10 @@ body {
   padding: 10px;
   background-color: #3399cc;
   text-transform: uppercase;
+  
+
+
+
 }
 .header-language-background .header-language-container {
   max-width: 1200px;

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="styles.css"/>
+		<title></title>
+	</head>
+	<body>
+		<script src="map.js"></script>
+
+			<div id="myMap">
+			</div>
+
+		
+	</body>
+</html>

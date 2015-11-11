@@ -92,7 +92,7 @@
             <?php echo $this->getChildHtml('topSearch') ?>
         </div>
 
-	<div id="header-search" class="skip-content">
+	<div id="header-search1" class="skip-content1">
             <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('pincode')->toHtml()?>
 
         </div>
